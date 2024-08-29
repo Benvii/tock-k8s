@@ -1,6 +1,6 @@
 # tock-k8s
 
-# ⚠️ This repository is no longer maintained see https://github.com/theopenconversationkit/tock-k8s.git for up to date helm charts.
+# ⚠️ This repository is no longer maintained see https://github.com/theopenconversationkit/tock-helm-chart for up to date helm charts.
 
 Kubernetes implementation and resources for Tock.
 
